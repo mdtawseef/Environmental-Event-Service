@@ -5,7 +5,7 @@ The service provide summary of humanitarian crisis report from all over world wh
 The following Api's were user,
 1. ReliefWeb API - To get reports on humanitarian crisis.
 2. Aylien Machine Learning API - To summerize the reports.
-3. Google country and places - To get the ilst of all countries in the world.
+3. Google country and places - To get the list of all countries in the world.
 
 ### Technologies Used
 1. Python 3.6
