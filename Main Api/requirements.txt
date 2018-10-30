@@ -24,7 +24,7 @@ pyparsing==2.2.0
 python-dateutil==2.6.0
 python-restcountries==0.1a3
 pytz==2017.2
-requests==2.13.0
+requests==2.20.0
 simplegeneric==0.8.1
 six==1.10.0
 traitlets==4.3.2
